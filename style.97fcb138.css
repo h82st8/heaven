@@ -1,18 +1,18 @@
 @font-face {
   font-family: "Neo Sans Pro";
-  src: url(/NeoSansPro-Regular.f0828dd0.ttf) format("ttf"), url(/NeoSansPro-Regular.4d691eed.woff) format("woff"), url(/NeoSansPro-Regular.7b187a99.woff2) format("woff2");
+  src: url(NeoSansPro-Regular.f0828dd0.ttf) format("ttf"), url(NeoSansPro-Regular.4d691eed.woff) format("woff"), url(NeoSansPro-Regular.7b187a99.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Neo Sans Pro";
-  src: url(/NeoSansPro-Bold.68297bc6.ttf) format("ttf"), url(/NeoSansPro-Bold.7bfffb08.woff) format("woff"), url(/NeoSansPro-Bold.d82e824d.woff2) format("woff2");
+  src: url(NeoSansPro-Bold.68297bc6.ttf) format("ttf"), url(NeoSansPro-Bold.7bfffb08.woff) format("woff"), url(NeoSansPro-Bold.d82e824d.woff2) format("woff2");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: "PT Sans";
-  src: url(/PTSans-Regular.679c5c4c.ttf) format("ttf"), url(/PTSans-Regular.a1b0e12a.woff) format("woff"), url(/PTSans-Regular.91543210.woff2) format("woff2");
+  src: url(PTSans-Regular.679c5c4c.ttf) format("ttf"), url(PTSans-Regular.a1b0e12a.woff) format("woff"), url(PTSans-Regular.91543210.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
 }
@@ -149,7 +149,7 @@ body {
   left: 45px;
   width: 30px;
   height: 25px;
-  background-image: url(/chat.f63d3283.svg);
+  background-image: url(chat.f63d3283.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
